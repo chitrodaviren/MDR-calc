@@ -1,17 +1,16 @@
 {
-  "name": "Product Calculator Pro",
-  "short_name": "ProdCalc",
+  "name": "Medium Duty Rack Calculator",
+  "short_name": "MDR",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f4f7f6",
-  "theme_color": "#007bff",
-  "description": "Calculates product costs and saves history.",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "description": "Professional weight and price calculator for MDR.",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2344/2344132.png",
+      "src": "image_5.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
