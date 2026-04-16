@@ -3,14 +3,15 @@
   "short_name": "MDR",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#f8fafc",
+  "background_color": "#f1f5f9",
   "theme_color": "#2563eb",
   "description": "Professional weight and price calculator for MDR.",
   "icons": [
     {
       "src": "manifesticon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
